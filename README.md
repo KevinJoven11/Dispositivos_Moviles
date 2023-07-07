@@ -12,3 +12,6 @@ The interfaces is divided into two main pieces:
 1. Parameter configuration.
 2. Ant's behaviour.
 
+![First interace](IMG_1.jpg)
+
+![Second interace](IMG_2.jpg)
