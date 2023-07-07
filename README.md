@@ -14,4 +14,6 @@ The interfaces is divided into two main pieces:
 
 ![First interace](images/IMG_1.png) ![Second interace](images/IMG_3.png) 
 
+You can download all the code from the data folder.
 
+Enjoy!
